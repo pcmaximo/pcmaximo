@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pcmaximo/pcmaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTML/CSS/PYTHON/MYSQL ...
 - 🌱 I’m currently learning ADVANCED CSS, FLASK, TKINTER ...
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about PYTHON, HTML AND CSS...
 - 📫 How to reach me: LINKEDIN AND EMAIL
 - ⚡ Fun fact: I LOVE PROGRAMMING AND GYM
--->
+
